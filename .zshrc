@@ -1,0 +1,11 @@
+alias gcb="git checkout -b"
+alias gcm="git commit --message"
+alias gca="git commit --amend"
+alias gcp="git cherry-pick"
+alias ga="git add ."
+alias gs="git status"
+alias gd="git diff"
+alias gch="git checkout"
+alias gpo="git push origin"
+
+alias py="python"
