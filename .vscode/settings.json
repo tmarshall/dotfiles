@@ -4,6 +4,6 @@
         "package-lock.json": true,
         "./notebooks": true,
         "*bin.html": true,
-        "www/site_apps/main/static": true,
+        "www/site_apps/main/static": true
     }
 }
