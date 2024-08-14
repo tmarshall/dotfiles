@@ -2,7 +2,7 @@
     "search.exclude": {
         "*.map": true,
         "package-lock.json": true,
-        "./notebooks": true,
+        "notebooks": true,
         "*bin.html": true,
         "www/site_apps/main/static": true
     }
