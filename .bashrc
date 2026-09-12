@@ -1,3 +1,7 @@
+export GIT_CONFIG_COUNT=1
+export GIT_CONFIG_KEY_0=rerere.enabled
+export GIT_CONFIG_VALUE_0=true
+
 alias gcb="git checkout -b"
 alias gcm="git commit --message"
 alias gca="git commit --amend"
